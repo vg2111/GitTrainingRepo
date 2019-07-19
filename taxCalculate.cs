@@ -4,7 +4,7 @@ public int ReturnTax()
 {
   int tax = 0;
   
-  int income = 1000;
+  int income = 100;
   
    return income * 100;
 } 
