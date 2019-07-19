@@ -4,4 +4,10 @@ public int returnItem(int i)
 {
 return i;
 }
+
+public int Add(int i, int j)
+{
+return i + j;
+}
+
 }
